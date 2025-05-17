@@ -756,54 +756,57 @@
             <mxPoint x="99.00352941176465" y="5069" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZG8oH5_qYkblvt9C_oy-283" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="86" y="5175" width="947" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="EZG8oH5_qYkblvt9C_oy-253" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=20;" vertex="1" parent="EZG8oH5_qYkblvt9C_oy-283">
-          <mxGeometry width="947" height="350" as="geometry" />
+        <mxCell id="EZG8oH5_qYkblvt9C_oy-253" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="84" y="5139" width="947" height="350" as="geometry" />
         </mxCell>
         <mxCell id="EZG8oH5_qYkblvt9C_oy-254" value="[删除操作]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;" vertex="1" parent="EZG8oH5_qYkblvt9C_oy-253">
           <mxGeometry x="30" width="917" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EZG8oH5_qYkblvt9C_oy-273" value="选择删除记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="EZG8oH5_qYkblvt9C_oy-283" source="EZG8oH5_qYkblvt9C_oy-245" target="EZG8oH5_qYkblvt9C_oy-246">
+        <mxCell id="EZG8oH5_qYkblvt9C_oy-273" value="选择删除记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="EZG8oH5_qYkblvt9C_oy-245" target="EZG8oH5_qYkblvt9C_oy-246">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="191" y="76" />
+              <mxPoint x="275" y="5215" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZG8oH5_qYkblvt9C_oy-274" value="发送删除请求（记录ID）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="EZG8oH5_qYkblvt9C_oy-283" source="EZG8oH5_qYkblvt9C_oy-246" target="EZG8oH5_qYkblvt9C_oy-247">
+        <mxCell id="EZG8oH5_qYkblvt9C_oy-274" value="发送删除请求（记录ID）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="128" />
+              <mxPoint x="584" y="5252" />
+            </Array>
+            <mxPoint x="436.32352941176487" y="5252" as="sourcePoint" />
+            <mxPoint x="713.5" y="5252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZG8oH5_qYkblvt9C_oy-275" value="执行删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="877.68" y="5295" />
+            </Array>
+            <mxPoint x="715.0035294117648" y="5294.999999999999" as="sourcePoint" />
+            <mxPoint x="1021.1799999999995" y="5294.999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZG8oH5_qYkblvt9C_oy-276" value="返回删除结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="875.5" y="5345" />
+            </Array>
+            <mxPoint x="1015.9999999999995" y="5344.999999999999" as="sourcePoint" />
+            <mxPoint x="709.8235294117649" y="5344.999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZG8oH5_qYkblvt9C_oy-277" value="返回删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="EZG8oH5_qYkblvt9C_oy-247" target="EZG8oH5_qYkblvt9C_oy-246">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="587" y="5419" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZG8oH5_qYkblvt9C_oy-275" value="执行删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="EZG8oH5_qYkblvt9C_oy-283" source="EZG8oH5_qYkblvt9C_oy-247" target="EZG8oH5_qYkblvt9C_oy-248">
+        <mxCell id="EZG8oH5_qYkblvt9C_oy-278" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="EZG8oH5_qYkblvt9C_oy-246" target="EZG8oH5_qYkblvt9C_oy-245">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="792" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZG8oH5_qYkblvt9C_oy-276" value="返回删除结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="EZG8oH5_qYkblvt9C_oy-283" source="EZG8oH5_qYkblvt9C_oy-248" target="EZG8oH5_qYkblvt9C_oy-247">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="795" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZG8oH5_qYkblvt9C_oy-277" value="返回删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="EZG8oH5_qYkblvt9C_oy-283" source="EZG8oH5_qYkblvt9C_oy-247" target="EZG8oH5_qYkblvt9C_oy-246">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="503" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZG8oH5_qYkblvt9C_oy-278" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="EZG8oH5_qYkblvt9C_oy-283" source="EZG8oH5_qYkblvt9C_oy-246" target="EZG8oH5_qYkblvt9C_oy-245">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="194" y="330" />
+              <mxPoint x="278" y="5469" />
             </Array>
           </mxGeometry>
         </mxCell>
