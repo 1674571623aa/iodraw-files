@@ -703,7 +703,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZG8oH5_qYkblvt9C_oy-269" value="执行查询（SELECT）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="EZG8oH5_qYkblvt9C_oy-247" target="EZG8oH5_qYkblvt9C_oy-248">
+        <mxCell id="EZG8oH5_qYkblvt9C_oy-269" value="执行查询" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="EZG8oH5_qYkblvt9C_oy-247" target="EZG8oH5_qYkblvt9C_oy-248">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="876" y="5155" />
