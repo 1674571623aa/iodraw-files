@@ -653,7 +653,7 @@
             <mxPoint x="440" y="4585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZG8oH5_qYkblvt9C_oy-262" value="发送更新状态请求（记录ID）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
+        <mxCell id="EZG8oH5_qYkblvt9C_oy-262" value="发送更新状态请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="584.68" y="4627" />
