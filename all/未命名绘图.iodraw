@@ -619,7 +619,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-19" value="点击&quot;确认维修&quot;按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-19" value="点击&quot;回复&quot;按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
           <mxGeometry x="-0.012" y="-9" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1192.93" y="4369" />
@@ -629,7 +629,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-26" value="提交维修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-26" value="提交回复信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
           <mxGeometry x="0.018" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="827.93" y="4476" />
@@ -639,7 +639,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-27" value="更新状态为&quot;确认维修&quot;&#xa;更新报修记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-27" value="更新状态为&quot;已回复&quot;&#xa;更新报修记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
           <mxGeometry x="-0.091" y="9" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="733.93" y="4589" />
@@ -667,7 +667,7 @@
             <mxPoint x="1088.4300000000005" y="4848" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-30" value="回复维修成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-5" target="HcdVNQ4TR8zxTY_p1YyN-6">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-30" value="回复成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-5" target="HcdVNQ4TR8zxTY_p1YyN-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1207" y="4948" />
