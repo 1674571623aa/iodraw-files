@@ -579,7 +579,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-8" value="发送报修数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-2" target="HcdVNQ4TR8zxTY_p1YyN-3">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-8" value="发送意见数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-2" target="HcdVNQ4TR8zxTY_p1YyN-3">
           <mxGeometry x="-0.0237" y="16" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="469" y="4153" />
@@ -587,7 +587,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-9" value="创建报修记录&#xa;(状态=&quot;待维修&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-3" target="HcdVNQ4TR8zxTY_p1YyN-4">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-9" value="创建意见记录&#xa;(状态=&quot;未回复&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-3" target="HcdVNQ4TR8zxTY_p1YyN-4">
           <mxGeometry x="-0.0543" y="14" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730" y="4205" />
@@ -595,7 +595,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-10" value="保存报修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-4" target="HcdVNQ4TR8zxTY_p1YyN-3">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-10" value="保存意见信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-4" target="HcdVNQ4TR8zxTY_p1YyN-3">
           <mxGeometry x="0.0487" y="-11" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="733" y="4255" />
@@ -619,8 +619,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-19" value="点击&quot;确认维修&quot;按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry x="-0.012" y="-9" relative="1" as="geometry">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-19" value="点击&quot;回复&quot;按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
+          <mxGeometry x="-0.0143" y="-9" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1192.93" y="4369" />
             </Array>
@@ -629,7 +629,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-26" value="提交维修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-26" value="提交回复信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
           <mxGeometry x="0.018" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="827.93" y="4476" />
