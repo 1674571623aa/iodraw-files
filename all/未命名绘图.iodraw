@@ -572,17 +572,19 @@
           <mxGeometry x="1317" y="3996" width="150" height="1368" as="geometry" />
         </mxCell>
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-7" value="填写报修表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-1" target="HcdVNQ4TR8zxTY_p1YyN-2">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0263" y="9" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="241" y="4103" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-8" value="发送报修数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-2" target="HcdVNQ4TR8zxTY_p1YyN-3">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0237" y="16" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="469" y="4153" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-9" value="创建报修记录&#xa;(状态=&quot;待维修&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-3" target="HcdVNQ4TR8zxTY_p1YyN-4">
@@ -594,7 +596,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-10" value="保存报修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-4" target="HcdVNQ4TR8zxTY_p1YyN-3">
-          <mxGeometry x="0.0178" y="-26" relative="1" as="geometry">
+          <mxGeometry x="0.0487" y="-11" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="733" y="4255" />
             </Array>
@@ -602,17 +604,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-11" value="返回处理结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-3" target="HcdVNQ4TR8zxTY_p1YyN-2">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0062" y="-18" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="472" y="4305" />
             </Array>
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-12" value="提交成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-2" target="HcdVNQ4TR8zxTY_p1YyN-1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.042" y="-15" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="244" y="4355" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-19" value="点击&quot;确认维修&quot;按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
@@ -626,12 +630,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-26" value="提交维修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.018" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="827.93" y="4476" />
             </Array>
             <mxPoint x="1077.4300000000005" y="4476" as="sourcePoint" />
             <mxPoint x="554.0014285714284" y="4476" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-27" value="更新状态为&quot;确认维修&quot;&#xa;更新报修记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
