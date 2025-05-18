@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="24.7.17">
   <diagram name="第 1 页" id="17kfL6qQHoEolkLS5CCA">
-    <mxGraphModel dx="3187" dy="2016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1395" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -595,7 +595,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-10" value="保存意见信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-4" target="HcdVNQ4TR8zxTY_p1YyN-3">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-10" value="保存报修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-4" target="HcdVNQ4TR8zxTY_p1YyN-3">
           <mxGeometry x="0.0487" y="-11" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="733" y="4255" />
@@ -619,7 +619,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-19" value="点击&quot;回复&quot;按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-19" value="点击&quot;确认维修&quot;按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
           <mxGeometry x="-0.012" y="-9" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1192.93" y="4369" />
@@ -629,7 +629,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-26" value="提交回复信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-26" value="提交维修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
           <mxGeometry x="0.018" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="827.93" y="4476" />
@@ -639,7 +639,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-27" value="更新状态为&quot;已回复&quot;&#xa;更新报修记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-27" value="更新状态为&quot;确认维修&quot;&#xa;更新报修记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
           <mxGeometry x="-0.091" y="9" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="733.93" y="4589" />
@@ -667,128 +667,11 @@
             <mxPoint x="1088.4300000000005" y="4848" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-30" value="回复成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-5" target="HcdVNQ4TR8zxTY_p1YyN-6">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-30" value="回复维修成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-5" target="HcdVNQ4TR8zxTY_p1YyN-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1207" y="4948" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-32" value="填写意见表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry x="-0.0341" y="9" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="251" y="4126" />
-            </Array>
-            <mxPoint x="112" y="4126" as="sourcePoint" />
-            <mxPoint x="370" y="4126" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-33" value="发送意见数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry x="-0.0237" y="16" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="479" y="4163" />
-            </Array>
-            <mxPoint x="368" y="4163" as="sourcePoint" />
-            <mxPoint x="570" y="4163" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-34" value="创建意见记录&#xa;(状态=&quot;未回复&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry x="-0.0543" y="14" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="740" y="4215" />
-            </Array>
-            <mxPoint x="568" y="4215" as="sourcePoint" />
-            <mxPoint x="893" y="4215" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-35" value="保存意见信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry x="0.0487" y="-11" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="743" y="4265" />
-            </Array>
-            <mxPoint x="893" y="4265" as="sourcePoint" />
-            <mxPoint x="568" y="4265" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-36" value="返回处理结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry x="-0.0062" y="-18" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="482" y="4315" />
-            </Array>
-            <mxPoint x="570" y="4315" as="sourcePoint" />
-            <mxPoint x="368" y="4315" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-37" value="提交成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry x="0.042" y="-15" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="254" y="4365" />
-            </Array>
-            <mxPoint x="370" y="4365" as="sourcePoint" />
-            <mxPoint x="112" y="4365" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-38" value="点击&quot;回复&quot;按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry x="-0.012" y="-9" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1202.93" y="4379" />
-            </Array>
-            <mxPoint x="1399.43" y="4379" as="sourcePoint" />
-            <mxPoint x="1090.001428571429" y="4379" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-39" value="提交回复信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry x="0.018" y="-10" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="837.93" y="4486" />
-            </Array>
-            <mxPoint x="1087.4300000000005" y="4486" as="sourcePoint" />
-            <mxPoint x="564.0014285714284" y="4486" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-40" value="更新状态为&quot;已回复&quot;&#xa;更新报修记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry x="-0.091" y="9" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="743.93" y="4599" />
-            </Array>
-            <mxPoint x="573.0014285714284" y="4599" as="sourcePoint" />
-            <mxPoint x="896.43" y="4599" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-41" value="返回更新结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="743.93" y="4707" />
-            </Array>
-            <mxPoint x="893.43" y="4707" as="sourcePoint" />
-            <mxPoint x="570.0014285714284" y="4707" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-42" value="返回处理结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="845.93" y="4858" />
-            </Array>
-            <mxPoint x="575.0014285714284" y="4858" as="sourcePoint" />
-            <mxPoint x="1098.4300000000005" y="4858" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-43" value="回复成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1217" y="4958" />
-            </Array>
-            <mxPoint x="1091" y="4958" as="sourcePoint" />
-            <mxPoint x="1402" y="4958" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
