@@ -594,10 +594,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-10" value="保存报修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-4" target="HcdVNQ4TR8zxTY_p1YyN-3">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0178" y="-26" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="733" y="4255" />
             </Array>
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-11" value="返回处理结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-3" target="HcdVNQ4TR8zxTY_p1YyN-2">
