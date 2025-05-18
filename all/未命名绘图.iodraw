@@ -571,10 +571,10 @@
         <mxCell id="HcdVNQ4TR8zxTY_p1YyN-6" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1317" y="3996" width="150" height="1368" as="geometry" />
         </mxCell>
-        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-7" value="填写报修表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-1" target="HcdVNQ4TR8zxTY_p1YyN-2">
-          <mxGeometry x="-0.0263" y="9" relative="1" as="geometry">
+        <mxCell id="HcdVNQ4TR8zxTY_p1YyN-7" value="填写意见表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=22;" edge="1" parent="1" source="HcdVNQ4TR8zxTY_p1YyN-1" target="HcdVNQ4TR8zxTY_p1YyN-2">
+          <mxGeometry x="-0.0341" y="9" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="241" y="4103" />
+              <mxPoint x="241" y="4116" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
