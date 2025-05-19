@@ -174,23 +174,23 @@
             <mxPoint x="279" y="1021" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-44" value="发送报修数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="orTWjY7gdaR23wKQxTuM-37">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-44" value="发送意见数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="394" y="1071" />
+              <mxPoint x="392" y="1071" />
             </Array>
-            <mxPoint x="294" y="1071" as="sourcePoint" />
+            <mxPoint x="292" y="1071" as="sourcePoint" />
             <mxPoint x="481" y="1071" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-45" value="创建报修记录" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-45" value="创建意见记录" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry x="0.0672" y="7" relative="1" as="geometry">
             <mxPoint x="494" y="1141" as="sourcePoint" />
             <mxPoint x="762" y="1141" as="targetPoint" />
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-46" value="   保存保修信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;dashed=1;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-39">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-46" value="   保存意见信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;dashed=1;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="1198" as="sourcePoint" />
             <mxPoint x="494" y="1196" as="targetPoint" />
