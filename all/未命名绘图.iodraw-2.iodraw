@@ -49,14 +49,14 @@
             <mxPoint x="491" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-9" value="创建报修记录&#xa;保存报修信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-9" value="创建报修记录" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry x="0.0672" y="7" relative="1" as="geometry">
             <mxPoint x="504" y="245" as="sourcePoint" />
             <mxPoint x="772" y="245" as="targetPoint" />
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-10" value="返回处理结果" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;dashed=1;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-27">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-10" value="   保存保修信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;dashed=1;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="302" as="sourcePoint" />
             <mxPoint x="504" y="300" as="targetPoint" />
@@ -114,7 +114,7 @@
             <mxPoint x="967" y="674" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-18" value="维修成功" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;dashed=1;" edge="1" parent="1">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-18" value="维修成功" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="983" y="720" as="sourcePoint" />
             <mxPoint x="1187" y="720" as="targetPoint" />
