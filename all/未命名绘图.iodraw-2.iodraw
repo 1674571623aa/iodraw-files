@@ -248,7 +248,7 @@
             <mxPoint x="957" y="1570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-54" value="回复成功" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-54" value="回复成功" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="973" y="1616" as="sourcePoint" />
             <mxPoint x="1177" y="1616" as="targetPoint" />
