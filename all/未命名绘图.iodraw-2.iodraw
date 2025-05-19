@@ -19,6 +19,9 @@
         <mxCell id="orTWjY7gdaR23wKQxTuM-4" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="704" y="-26" width="150" height="805" as="geometry" />
         </mxCell>
+        <mxCell id="orTWjY7gdaR23wKQxTuM-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="orTWjY7gdaR23wKQxTuM-4">
+          <mxGeometry x="70" y="220" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="orTWjY7gdaR23wKQxTuM-5" value="管理员前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="899" y="-24" width="150" height="805" as="geometry" />
         </mxCell>
@@ -89,18 +92,14 @@
             <mxPoint x="506" y="581" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-16" value="返回更新结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-4" target="orTWjY7gdaR23wKQxTuM-3">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-16" value="返回更新结果" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-4">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="646" y="620" />
-            </Array>
+            <mxPoint x="506" y="616" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-17" value="返回处理结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-3" target="orTWjY7gdaR23wKQxTuM-5">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-17" value="返回处理结果" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="orTWjY7gdaR23wKQxTuM-5">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="743" y="670" />
-            </Array>
+            <mxPoint x="508" y="672" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="orTWjY7gdaR23wKQxTuM-18" value="维修成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-5">
