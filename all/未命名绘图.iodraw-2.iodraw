@@ -40,20 +40,14 @@
             <mxPoint x="491" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-9" value="创建报修记录(状态=&quot;待维修&quot;)&#xa;保存报修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="orTWjY7gdaR23wKQxTuM-4">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-9" value="创建报修记录&#xa;保存报修信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" target="orTWjY7gdaR23wKQxTuM-4">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="643" y="247" />
-            </Array>
             <mxPoint x="504" y="245" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-10" value="返回处理结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-4" target="orTWjY7gdaR23wKQxTuM-3">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-10" value="返回处理结果" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-4">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="646" y="297" />
-            </Array>
-            <mxPoint x="517" y="297" as="targetPoint" />
+            <mxPoint x="504" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="orTWjY7gdaR23wKQxTuM-11" value="返回处理结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-3">
@@ -81,11 +75,13 @@
             <mxPoint x="1181.5" y="449" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orTWjY7gdaR23wKQxTuM-14" value="提交维修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-5" target="orTWjY7gdaR23wKQxTuM-3">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="orTWjY7gdaR23wKQxTuM-14" value="提交维修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-5">
+          <mxGeometry x="0.145" y="-11" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="746" y="499" />
             </Array>
+            <mxPoint x="508" y="499" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="orTWjY7gdaR23wKQxTuM-15" value="更新状态为&quot;确认维修&quot;&#xa;更新报修记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="orTWjY7gdaR23wKQxTuM-3" target="orTWjY7gdaR23wKQxTuM-4">
